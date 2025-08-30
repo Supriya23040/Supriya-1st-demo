@@ -1,2 +1,3 @@
-# Supriya-1st-demo
-This is my first Git Repository.
+ # Supriya-1st-demo
+This is my first Git Repository. 
+Author: Supriya
